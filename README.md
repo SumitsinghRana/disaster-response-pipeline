@@ -60,6 +60,6 @@ This project requires **Python 3.5 or higher** and should run smoothly with any 
    python run.py
 4 **View the app**
    Open your browser and visit:
-   http://0.0.0.0:3001/
    ```bash
+   http://0.0.0.0:3001/
    
