@@ -80,3 +80,6 @@ Once the application is running:
 - In collaboration with kaggle for dataset and guidance.  
 - Built using **Python**, **Flask**, **Scikit-learn**, **Pandas**, and **SQLite**.  
 - Special thanks to the open-source community for various tools and libraries.
+
+
+---
