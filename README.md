@@ -59,7 +59,7 @@ This project requires **Python 3.5 or higher** and should run smoothly with any 
    ```bash
    python run.py
    
-4 **View the app**
+4 View the app
    Open your browser and visit:
    ```bash
    http://0.0.0.0:3001/
