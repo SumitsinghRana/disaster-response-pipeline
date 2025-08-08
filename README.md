@@ -58,6 +58,7 @@ This project requires **Python 3.5 or higher** and should run smoothly with any 
    Navigate into the app/ folder and run:
    ```bash
    python run.py
+
 4 **View the app**
    Open your browser and visit:
    ```bash
