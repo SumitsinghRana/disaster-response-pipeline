@@ -44,7 +44,7 @@ The repository is organized into three key directories:
 
 This project requires **Python 3.5 or higher** and should run smoothly with any standard Anaconda Python distribution.
 
-#### Steps to get started:
+### Steps to get started:
 
 1. **Run the data pipeline**  
    ```bash
@@ -62,4 +62,14 @@ This project requires **Python 3.5 or higher** and should run smoothly with any 
 4. View the app
    Open your browser and visit:
    http://0.0.0.0:3001/
+
+## How to Use
+
+Once the application is running:
+
+- You’ll see a dashboard displaying visual summaries and insights of the disaster message dataset.
+- Enter any message into the input box on the webpage.
+- Click the **"Classify Message"** button.
+- The app will process your input and display which categories the message belongs to, highlighting active classifications.
+
    
