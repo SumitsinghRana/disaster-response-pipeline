@@ -44,7 +44,7 @@ The repository is organized into three key directories:
 
 This project requires **Python 3.5 or higher** and should run smoothly with any standard Anaconda Python distribution.
 
-### Steps to get started:
+#### Steps to get started:
 
 1. **Run the data pipeline**  
    ```bash
