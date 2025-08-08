@@ -50,10 +50,16 @@ This project requires **Python 3.5 or higher** and should run smoothly with any 
    ```bash
    python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
    
-2. Train the machine learning model
+2. **Train the machine learning model**
+   ```bash
    python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 
-3.Launch the web application
+3. **Launch the web application**
    Navigate into the app/ folder and run:
    ```bash
    python run.py
+4 **View the app**
+   Open your browser and visit:
+   http://0.0.0.0:3001/
+   ```bash
+   
