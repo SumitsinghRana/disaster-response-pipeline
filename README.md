@@ -72,4 +72,11 @@ Once the application is running:
 - Click the **"Classify Message"** button.
 - The app will process your input and display which categories the message belongs to, highlighting active classifications.
 
-   
+---
+
+## Credits
+
+- Developed by **Harsh Bisht** as part of personal projects and learning.  
+- In collaboration with kaggle for dataset and guidance.  
+- Built using **Python**, **Flask**, **Scikit-learn**, **Pandas**, and **SQLite**.  
+- Special thanks to the open-source community for various tools and libraries.
