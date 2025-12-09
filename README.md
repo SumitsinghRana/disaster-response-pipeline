@@ -76,7 +76,7 @@ Once the application is running:
 
 ## Credits
 
-- Developed by **Harsh Bisht** as part of personal projects and learning.  
+- Developed by **sumit singh rana,vaibhav chauhan,abhishek rana,aaman raza** as part of major projects and learning.  
 - In collaboration with kaggle for dataset and guidance.  
 - Built using **Python**, **Flask**, **Scikit-learn**, **Pandas**, and **SQLite**.  
 - Special thanks to the open-source community for various tools and libraries.
